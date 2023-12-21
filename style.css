@@ -203,7 +203,7 @@ input, textarea {
   grid-area: logo;
   box-shadow: 0 0 10px #ddd;
   background: white;
-  padding: 5px;
+  padding-inline: 5px;
   display: grid;
   place-items: center;
   overflow: scroll;
